@@ -464,7 +464,7 @@ main.techno {
 }
 
 .__tech__container:hover{
-  cursor: crosshair;
+  cursor: pointer;
   width: 20%;
   opacity: 1;
 }
